@@ -1,0 +1,38 @@
+2024-08-07 14:05:14,885 - INFO - Starting the scraping process.
+2024-08-07 14:05:14,892 - INFO - Scraping URL: https://www.borger.dk/arbejde-dagpenge-ferie/Arbejdsloeshed/find-et-job?NavigationTaxonomyId=00f2b35b-88e5-4ed5-a98c-fb062df75f0f&page=1
+2024-08-07 14:05:15,598 - INFO - Successfully scraped URL: https://www.borger.dk/arbejde-dagpenge-ferie/Arbejdsloeshed/find-et-job?NavigationTaxonomyId=00f2b35b-88e5-4ed5-a98c-fb062df75f0f&page=1
+2024-08-07 14:05:17,600 - INFO - Scraping URL: https://www.borger.dk/arbejde-dagpenge-ferie/Arbejdsloeshed/find-et-job?NavigationTaxonomyId=00f2b35b-88e5-4ed5-a98c-fb062df75f0f&page=2
+2024-08-07 14:05:18,297 - INFO - Successfully scraped URL: https://www.borger.dk/arbejde-dagpenge-ferie/Arbejdsloeshed/find-et-job?NavigationTaxonomyId=00f2b35b-88e5-4ed5-a98c-fb062df75f0f&page=2
+2024-08-07 14:05:20,304 - INFO - Scraping URL: https://www.borger.dk/arbejde-dagpenge-ferie/Arbejdsloeshed/find-et-job?NavigationTaxonomyId=00f2b35b-88e5-4ed5-a98c-fb062df75f0f&page=3
+2024-08-07 14:05:24,394 - INFO - Successfully scraped URL: https://www.borger.dk/arbejde-dagpenge-ferie/Arbejdsloeshed/find-et-job?NavigationTaxonomyId=00f2b35b-88e5-4ed5-a98c-fb062df75f0f&page=3
+2024-08-07 14:05:26,400 - INFO - Scraping URL: https://www.borger.dk/arbejde-dagpenge-ferie/Arbejdsloeshed/find-et-job?NavigationTaxonomyId=00f2b35b-88e5-4ed5-a98c-fb062df75f0f&page=4
+2024-08-07 14:05:30,196 - INFO - Successfully scraped URL: https://www.borger.dk/arbejde-dagpenge-ferie/Arbejdsloeshed/find-et-job?NavigationTaxonomyId=00f2b35b-88e5-4ed5-a98c-fb062df75f0f&page=4
+2024-08-07 14:05:32,198 - INFO - Scraping URL: https://www.borger.dk/arbejde-dagpenge-ferie/Arbejdsloeshed/find-et-job?NavigationTaxonomyId=00f2b35b-88e5-4ed5-a98c-fb062df75f0f&page=5
+2024-08-07 14:05:32,755 - INFO - Successfully scraped URL: https://www.borger.dk/arbejde-dagpenge-ferie/Arbejdsloeshed/find-et-job?NavigationTaxonomyId=00f2b35b-88e5-4ed5-a98c-fb062df75f0f&page=5
+2024-08-07 14:05:34,762 - INFO - Scraped 5 pages successfully.
+2024-08-07 14:13:30,572 - INFO - Starting scraping.
+2024-08-07 14:13:31,915 - INFO - Success: https://www.borger.dk/arbejde-dagpenge-ferie/Arbejdsloeshed/find-et-job?NavigationTaxonomyId=00f2b35b-88e5-4ed5-a98c-fb062df75f0f&page=1
+2024-08-07 14:13:34,729 - INFO - Success: https://www.borger.dk/arbejde-dagpenge-ferie/Arbejdsloeshed/find-et-job?NavigationTaxonomyId=00f2b35b-88e5-4ed5-a98c-fb062df75f0f&page=2
+2024-08-07 14:13:37,619 - INFO - Success: https://www.borger.dk/arbejde-dagpenge-ferie/Arbejdsloeshed/find-et-job?NavigationTaxonomyId=00f2b35b-88e5-4ed5-a98c-fb062df75f0f&page=3
+2024-08-07 14:13:40,270 - INFO - Success: https://www.borger.dk/arbejde-dagpenge-ferie/Arbejdsloeshed/find-et-job?NavigationTaxonomyId=00f2b35b-88e5-4ed5-a98c-fb062df75f0f&page=4
+2024-08-07 14:13:42,273 - INFO - Starting scraping.
+2024-08-07 14:13:43,061 - INFO - Success: https://www.borger.dk/arbejde-dagpenge-ferie/Arbejdsloeshed/find-et-job?NavigationTaxonomyId=00f2b35b-88e5-4ed5-a98c-fb062df75f0f&page=1
+2024-08-07 14:13:44,434 - INFO - Success: https://www.borger.dk/arbejde-dagpenge-ferie/Arbejdsloeshed/find-et-job?NavigationTaxonomyId=00f2b35b-88e5-4ed5-a98c-fb062df75f0f&page=2
+2024-08-07 14:13:45,868 - INFO - Success: https://www.borger.dk/arbejde-dagpenge-ferie/Arbejdsloeshed/find-et-job?NavigationTaxonomyId=00f2b35b-88e5-4ed5-a98c-fb062df75f0f&page=3
+2024-08-07 14:13:47,506 - INFO - Success: https://www.borger.dk/arbejde-dagpenge-ferie/Arbejdsloeshed/find-et-job?NavigationTaxonomyId=00f2b35b-88e5-4ed5-a98c-fb062df75f0f&page=4
+2024-08-07 14:13:48,747 - INFO - Success: https://www.borger.dk/arbejde-dagpenge-ferie/Arbejdsloeshed/find-et-job?NavigationTaxonomyId=00f2b35b-88e5-4ed5-a98c-fb062df75f0f&page=5
+2024-08-07 14:13:49,259 - INFO - Scraping completed.
+2024-08-07 14:35:15,035 - INFO - NumExpr defaulting to 8 threads.
+2024-08-07 14:36:23,361 - INFO - Starting the scraping process for 100 job postings.
+2024-08-07 14:36:23,375 - INFO - Scraping URL: https://www.jobnet.dk/api/jobSearchResults?query=developer&page=1
+2024-08-07 14:36:23,633 - ERROR - Error occurred for https://www.jobnet.dk/api/jobSearchResults?query=developer&page=1: Expecting value: line 4 column 1 (char 6)
+2024-08-07 14:36:25,636 - INFO - Scraping URL: https://www.jobnet.dk/api/jobSearchResults?query=developer&page=2
+2024-08-07 14:36:28,932 - ERROR - Error occurred for https://www.jobnet.dk/api/jobSearchResults?query=developer&page=2: Expecting value: line 4 column 1 (char 6)
+2024-08-07 14:36:30,936 - INFO - Scraping URL: https://www.jobnet.dk/api/jobSearchResults?query=developer&page=3
+2024-08-07 14:36:31,141 - ERROR - Error occurred for https://www.jobnet.dk/api/jobSearchResults?query=developer&page=3: Expecting value: line 4 column 1 (char 6)
+2024-08-07 14:36:33,149 - INFO - Scraping URL: https://www.jobnet.dk/api/jobSearchResults?query=developer&page=4
+2024-08-07 14:36:33,386 - ERROR - Error occurred for https://www.jobnet.dk/api/jobSearchResults?query=developer&page=4: Expecting value: line 4 column 1 (char 6)
+2024-08-07 14:36:35,388 - INFO - Scraping URL: https://www.jobnet.dk/api/jobSearchResults?query=developer&page=5
+2024-08-07 14:36:35,574 - ERROR - Error occurred for https://www.jobnet.dk/api/jobSearchResults?query=developer&page=5: Expecting value: line 4 column 1 (char 6)
+2024-08-07 14:36:37,598 - INFO - Scraped 0 job postings successfully.
+2024-08-07 14:36:37,598 - INFO - Scraping process completed and data saved.
